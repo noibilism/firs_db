@@ -1,0 +1,5 @@
+Database Modelling Process:
+
+1. Create MWB file
+2. Generate A DUMP during forward engineering as save as firs_dump.sql
+3. Generate a PNG file for the DB ER relationship
